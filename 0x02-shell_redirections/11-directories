@@ -1,0 +1,2 @@
+#!/bin/bash
+find . -typevd -not -name "." | wc -1
